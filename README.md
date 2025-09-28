@@ -27,6 +27,7 @@ python test_app_ollama.py
 ## 影片
 | 片段 | 連結 |
 |------|------|
-| 1-installation | ./videos/p2202956&p2215793_BlogGenerator_1-installation.mp4 |
-| 2-implementation | ./videos/p2202956&p2215793_BlogGenerator_2-implementation.mp4 |
-| 3-testing | ./videos/p2202956&p2215793_BlogGenerator_3-testing.mp4 |
+| 1-installation | https://youtu.be/BE0jZ5aDQ1E |
+| 2-implementation | https://youtu.be/ozkGyI9pkcs |
+| 3-testing | https://youtu.be/RGARQdDrqQU |
+
