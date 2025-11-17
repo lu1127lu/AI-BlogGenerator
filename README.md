@@ -31,3 +31,10 @@ python test_app_ollama.py
 | 2-implementation | https://youtu.be/ozkGyI9pkcs |
 | 3-testing | https://youtu.be/RGARQdDrqQU |
 
+## 1B 延伸（LLM 量化對話）
+### 影片（Google Drive 公開連結）
+| 片段 | 連結 |
+|------|------|
+| 1-installation | https://drive.google.com/file/d/1UllD5SE-KCQhvCImTDp3QDWifZHv0np8/view?usp=sharing |
+| 2-implementation | https://drive.google.com/file/d/11HCjiVyS_ZmcYnH-u_agry12w7GnfBMc/view?usp=sharing |
+| 3-testing | https://drive.google.com/file/d/1MYnJstUMj3mdIvXDiEXgDbshOdocAhBj/view?usp=sharing |
